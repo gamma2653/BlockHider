@@ -1,0 +1,7 @@
+#If true, will not show particles either.
+ReallyHidePlayers: true
+#There are 20 ticks in one second.
+#This is the cool down between right-clicking the Block Hider.
+CooldownInTicks: 1200
+#This is how long the hide effect lasts.
+HideTimeInTicks: 1200

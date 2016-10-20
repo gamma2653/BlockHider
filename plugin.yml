@@ -1,0 +1,19 @@
+name: Block Hider
+version: 1.0
+main: com.gamsion.chris.blockhider.BlockHider
+author: gamma2626
+description: Allows people to turn into blocks. (Not really but you can't tell).
+
+commands:
+    blockhide:
+        usage: /<command> <argument>
+        description: Used to access all the commands for bh.
+
+permission:
+    blockhide.spawnSlime:
+        description: Permission to spawn Block Hider
+        default: op
+    blockhide.setRealHide:
+        description: Permission to change config value.
+        default: op
+    
