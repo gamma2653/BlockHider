@@ -1,0 +1,5 @@
+#ReallyHidePlayers:
+#true - Uses bukkit API to hide player packets from all other players.
+#false - Uses Minecraft's invisibility potion effect to hide players. Armor, held items,
+#        certain features and any particles emitted by player do not disappear.
+ReallyHidePlayers: true
